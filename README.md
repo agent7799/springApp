@@ -1,1 +1,1 @@
-springApp
+Education exersices on spring  
